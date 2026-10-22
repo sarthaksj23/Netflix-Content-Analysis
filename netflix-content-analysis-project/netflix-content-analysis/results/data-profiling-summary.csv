@@ -1,0 +1,4 @@
+dataset_version,rows,columns,duplicate_rows,duplicate_show_id,missing_cells,missing_director,missing_cast,missing_country,missing_date_added,missing_rating,missing_duration
+Original raw,8807,12,0,0,4307,2634,825.0,831,10,4,3
+Intermediate cleaned,8790,10,0,0,0,0,,0,0,0,0
+Final cleaned,8390,11,0,0,0,0,0.0,0,0,0,0
